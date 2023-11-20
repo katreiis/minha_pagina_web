@@ -5,13 +5,13 @@ body {
     text-align: center;
     font-size: 50px;
     color:black;}
-    p1{
+    .p1{
         text-align: justify;
         font-size: 20px;
         color:aliceblue;}
 
 
-    p2{
+    .p2{
         text-align: justify;
         font-size: 20px;}
 
@@ -25,7 +25,7 @@ body {
         font-size: 30px;
         color:brown;}
     
-    ul{
+    .ul{
         display:inline-block;
         vertical-align: top;
         width:20%;

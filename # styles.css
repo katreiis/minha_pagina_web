@@ -37,6 +37,8 @@ body {
 
     #img1{
         width: 50%;
+        display:  block;
+        margin: 0 auto;
     }
     header{
         text-align: center;
